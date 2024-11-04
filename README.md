@@ -8,6 +8,6 @@
 <body>
     <h1>Welcome to Our Monthsarry Page!</h1>
     <p>Click the link below to view our monthsarry celebration:</p>
-    <a href="monthsarry.html">View Monthsarry Page</a>
+    <a href="index.html">View Monthsarry Page</a>
 </body>
 </html>
