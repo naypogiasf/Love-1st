@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to Our Monthsarry Page!</h1>
-    <p>Click the link below to view our monthsarry celebration:</p>
+    <p>Click the link below:</p>
     <a href="index.html">View Monthsarry Page</a>
 </body>
 </html>
